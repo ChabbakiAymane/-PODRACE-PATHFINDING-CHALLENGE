@@ -1,4 +1,4 @@
-# SWRACE
+# PODRACE-PATHFINDING-CHALLENGE
 Per mostrare il vostro valore come Jedi, sareste sottoposti a una prova. Come Anakin Skywalker, dovrete partecipare a una gara di sgusci. Grazie all’aiuto di una vecchia conoscenza, il pilota di X-Wing Cristian Solo, vi viene fornita una mappa dell’area in cui si svolgerà la gara.
 In questa specialità valgono le seguenti regole:
   1. La gara si svolge su una mappa prestabilita, suddivisa in quadrati, alcuni dei quali possono contenere degli anelli.
