@@ -26,9 +26,5 @@ Di seguito riportiamo le istruzioni per testare i vostri progammi su vari sistem
 Sistemi GNU/Linux 
 > /usr/bin/g++ -DEVAL -std=c++11 -O2 -pipe -static -s -o swrace swrace.cpp grader.cpp
 
->
->
-
-
 ---
-Per maggiori informazioni sul progetto, vedere file: *Star Wars: Il Risveglio dell’Algoritmo.pdf*.
+Per maggiori informazioni sul progetto, vedere file: *Star Wars - Il Risveglio dell’Algoritmo.pdf*.
