@@ -27,4 +27,4 @@ Sistemi GNU/Linux
 > /usr/bin/g++ -DEVAL -std=c++11 -O2 -pipe -static -s -o swrace swrace.cpp grader.cpp
 
 ---
-Per maggiori informazioni sul progetto, vedere file: *Star Wars - Il Risveglio dell’Algoritmo.pdf*.
+Per maggiori informazioni sul progetto, vedere file: [*Star Wars - Il Risveglio dell’Algoritmo.pdf*](https://github.com/ChabbakiAymane/SWRACE/blob/main/Star%20Wars%20-%20Il%20Risveglio%20dell’Algoritmo.pdf).
